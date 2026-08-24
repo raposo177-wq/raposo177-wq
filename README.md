@@ -1,10 +1,9 @@
 # Eliane Cristina Raposo
 ## Estudante
 ### Senac
+
 <div align="center">
-<img src="assets/html.svg">
-<img src="assets/css.svg">
-<img src="assets/JavaScript.svg">
+    <img src="assets/HTML.svg">
+    <img src="assets/CSS.svg">
+    <img src="assets/JavaScript.svg">
 </div>
-
-
