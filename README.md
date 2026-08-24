@@ -3,7 +3,7 @@
 ### Senac
 
 <div align="center">
-    <img src="Assets/HTML.svg">
-    <img src="Assets/CSS.svg">
-    <img src="Assets/JavaScript.svg">
+    <img src="Assets/HTML.svg"width="40"height="40">
+    <img src="Assets/CSS.svg"width="40"height="40">
+    <img src="Assets/JavaScript.svg"width="40"height="40">
 </div>
